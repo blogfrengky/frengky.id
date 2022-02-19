@@ -1,0 +1,9 @@
+pre::selection,
+pre *::selection {
+    background-color: #ff0000;
+}
+
+pre::selection,
+pre *::-moz-selection {
+    background-color: #ff0000;
+}
