@@ -13,6 +13,21 @@
   background-color: #7E2419;
 }
 
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: auto;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
 pre::selection,
 pre *::selection {
     background-color: #EE3A3A;
