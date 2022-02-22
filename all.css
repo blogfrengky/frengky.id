@@ -1,11 +1,11 @@
 pre::selection,
 pre *::selection {
-    background-color: #ff0000;
+    background-color: #EE3A3A;
 }
 
 pre::selection,
 pre *::-moz-selection {
-    background-color: #ff0000;
+    background-color: #EE3A3A;
 }
 
 blockquote{background: #e7e7e7;border-left:5px solid #EE3A3A;margin: 10px;padding:10px;font-size: 16px;color: #575757;;text-align:left}
