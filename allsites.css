@@ -43,3 +43,7 @@ blockquote{background: #e7e7e7;border-left:5px solid #EE3A3A;margin: 10px;paddin
 pre {
     background: #EE3A3A;
 }
+
+.latestPost .thecategory {
+    line-height: 1.3;
+}
