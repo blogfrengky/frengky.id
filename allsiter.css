@@ -1,13 +1,13 @@
 /* Style buttons */
 .btn {
-  background-color: #808080;
+  background-color: #FFFF99;
   border: none;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
 }
 .btn:hover {
-  background-color: #333333;
+  background-color: #FFFFCC;
 }
 
   font-family: arial, sans-serif;
