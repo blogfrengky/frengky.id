@@ -1,14 +1,10 @@
 /* Style buttons */
 .btn {
   background-color: #EE3A3A;
-  color: #ffffff;
   border: none;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
-}
-.btn:link {
-  color: #ffffff;
 }
 .btn:hover {
   background-color: #FF6600;
