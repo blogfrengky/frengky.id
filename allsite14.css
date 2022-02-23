@@ -1,3 +1,23 @@
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: orange;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: orange;
+} 
+
 /* Style buttons */
 .btn {
   background-color: yellow;
