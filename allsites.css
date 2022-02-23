@@ -1,8 +1,8 @@
 /* Style buttons */
 .btn {
-  background-color: #333333;
+  background-color: #EE3A3A;
+  color: #ffffff;
   border: none;
-  color: white;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
@@ -10,7 +10,7 @@
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: #7E2419;
+  background-color: #FF6600;
 }
 
   font-family: arial, sans-serif;
