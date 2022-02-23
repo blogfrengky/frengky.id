@@ -1,3 +1,23 @@
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+}
+
 /* Style buttons */
 .btn {
   background-color: #FFFF99;
@@ -9,7 +29,6 @@
 .btn:hover {
   background-color: #FFFFCC;
 }
-a.btn:hover, a.btn:active {color: red;}
 
   font-family: arial, sans-serif;
   border-collapse: collapse;
