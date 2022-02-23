@@ -1,19 +1,13 @@
 /* Style buttons */
 .btn {
-  background-color: #FFFF00;
+  background-color: black;
   border: none;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
 }
-.btn:link {
-  color: #FFFFFF;
-}
-.btn:visited {
-  color: #FFFFFF;
-}
 .btn:hover {
-  background-color: #FFFFCC;
+  background-color: white;
 }
 
   font-family: arial, sans-serif;
