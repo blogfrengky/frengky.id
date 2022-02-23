@@ -2,7 +2,6 @@
 .btn {
   background-color: #FFFF99;
   border: none;
-  color: white;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
@@ -10,6 +9,7 @@
 .btn:hover {
   background-color: #FFFFCC;
 }
+a.btn:hover, a.btn:active {color: red;}
 
   font-family: arial, sans-serif;
   border-collapse: collapse;
