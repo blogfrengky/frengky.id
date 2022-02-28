@@ -1,13 +1,13 @@
 /* Style Button by frengky.id */
 .btn {
-  background-color: white;
+  background-color: #F6F5B2;
   border: 2px solid #EE3A3A;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
 }
 .btn:hover {
-  background-color: #F6F5B2;
+  background-color: white;
 }
 .btn a {
     color: #EE3A3A;
