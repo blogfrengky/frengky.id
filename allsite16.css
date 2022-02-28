@@ -1,18 +1,19 @@
-/* Style buttons */
-.btn {
-  background-color: yellow;
-  border: none;
+  /* Style Button by frengky.id */
+.btn3 {
+  background-color: white;
+  border: 2px solid #EE3A3A;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
 }
-.btn:hover {
-  background-color: #F6F6F6;
+.btn3:hover {
+  background-color: #F6F5B2;
 }
-
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: auto;
+.btn3 a {
+    color: #EE3A3A;
+}  
+.btn3 a:hover {
+  color: black;
 }
 
 td, th {
