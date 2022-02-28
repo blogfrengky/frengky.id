@@ -20,6 +20,7 @@
 /* Style td,th by frengky.id */
 td, th {
     background-color: #F6F5B2;
+    border: 2px solid #ee3a3a2e;
     text-align: left;
     padding: 8px;
 }
